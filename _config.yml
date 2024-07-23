@@ -29,7 +29,7 @@ url: "https://texaswastelands.github.io" # the base hostname & protocol for your
 
 # Build settings
 #theme: minima
-remote_theme: "pages-themes/hacker@v0.2.0"
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-include-cache
