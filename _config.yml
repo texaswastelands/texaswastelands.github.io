@@ -28,14 +28,13 @@ url: "https://texaswastelands.github.io" # the base hostname & protocol for your
 #github_username:  jekyll
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-include-cache
 
 remote_theme: pages-themes/hacker@v0.2.0
-
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
