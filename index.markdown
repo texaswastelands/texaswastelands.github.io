@@ -5,5 +5,3 @@ layout: default
 ---
 # Games
 [Lonesome Wastes](/lonesome_wastes) - A game about the dark irony of finding happiness in the Apocalypse. An action-rpg flight sim.
-
-[TrackZombia](/trackzombia) - 
