@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+    background-image: url('/assets/media/images/pencillad/TexasWastelandsImage_No_Survivor_large.jpg');
+    background-size: cover; /* This makes sure the image covers the whole page */
+    background-position: center; /* This centers the image */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+}
