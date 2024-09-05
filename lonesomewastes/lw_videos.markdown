@@ -5,7 +5,7 @@ layout: default
 ---
 <div class="video-wrapper">
   <div class="video-container">
-    <iframe width="1430" height="811" src="https://www.youtube.com/embed/2EZs8W4H0xM?list=PLT1UJk-rLMogh20YSJKPpovNdvAaBV_OT" title="Lonesome Wastes - Buried City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1430" height="811" src="https://www.youtube.com/embed/2EZs8W4H0xM?list=PLT1UJk-rLMogh20YSJKPpovNdvAaBV_OT" title="Lonesome Wastes - Buried City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{:style="display:block; margin-left:auto; margin-right:auto;"}
     </div>
   <div class="video-container">
     <iframe width="1430" height="811" src="https://www.youtube.com/embed/2MpxPU1ygdM?list=PLT1UJk-rLMogh20YSJKPpovNdvAaBV_OT" title="Lonesome Wastes - Destructible Environments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
