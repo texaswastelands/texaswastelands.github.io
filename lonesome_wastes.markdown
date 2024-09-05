@@ -6,7 +6,7 @@ layout: default
 ---
 # Lonesome Wastes
 ## Built in Unity - Early Alpha stage
-### Dark times? Brutal world? Oh well, let's do something today!
+
 [Videos](/lonesomewastes/lw_videos)<br>
 [Images](/lonesomewastes/lw_images)
 
