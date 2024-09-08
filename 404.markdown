@@ -16,10 +16,6 @@ layout: default
     letter-spacing: -1px;
   }
 </style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+## Error 404
+## Page Not Found
+![LW_media](./assets/media/webp/heli_ranger_bug_eyeballs.webp){:style="display:block; margin-left:auto; margin-right:auto;"}
