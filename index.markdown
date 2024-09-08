@@ -4,11 +4,10 @@
 layout: default
 ---
 <head>
-  <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Texas Wastelands">
-  <meta property="og:description" content="Gamedev Projects">
-  <meta property="og:url" content="https://texaswastelands.github.io">
-  <meta property="og:image" content="/assets/media/images/backgrounds/txw_background_01_large.jpg">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ site.description | default: page.excerpt | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/media/images/backgrounds/txw_background_01_large.jpg">
   <meta property="og:type" content="website">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
