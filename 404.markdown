@@ -18,4 +18,4 @@ layout: default
 </style>
 ## Error 404
 ## Page Not Found
-![LW_media](./assets/media/webp/heli_ranger_bug_eyeballs.webp){:style="display:block; margin-left:auto; margin-right:auto;"}
+![LW_media](./assets/media/images/screenshots/404_error.jpg){:style="display:block; margin-left:auto; margin-right:auto;"}
