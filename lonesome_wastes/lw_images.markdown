@@ -29,4 +29,7 @@ layout: default
   <a href="../assets/media/images/screenshots/take_off_building_top.PNG" target="_blank">
     <img src="../assets/media/images/screenshots/thumbnails/tn_take_off_building_top.jpg" alt="Thumbnail 8">
   </a>
+    <a href="../assets/media/images/screenshots/nightmares.png" target="_blank">
+    <img src="../assets/media/images/screenshots/thumbnails/tn_nightmares.jpg" alt="Thumbnail 8">
+  </a>
 </div>
