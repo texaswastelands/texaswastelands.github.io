@@ -27,6 +27,35 @@ layout: default
     z-index: -1; /* Ensures the background is behind the content */
   }
 </style>
-[Lonesome Wastes](/lonesome_wastes) - A game about the dark irony of finding happiness in the Apocalypse. An action-rpg flight sim.
+---
+<div class="image-grid">
+  <a href="/lonesome_wastes/">
+    <img src="../assets/media/images/screenshots/thumbnails/tn_home_base_heli_far.jpg" alt="Thumbnail 5">
+  </a>
+</div>
 
-[Heli Evac](/heli_evac) - Haunted PS1, FPS horror test.
+## [Lonesome Wastes](/lonesome_wastes) - An action-rpg flight sim prototype
+
+<br>
+
+<div class="image-grid">
+  <a href="/heli_evac/">
+    <img src="../assets/media/images/screenshots/thumbnails/tn_heli_evac.jpg" alt="Thumbnail 5">
+  </a>
+</div>
+
+## [Heli Evac](/heli_evac) - Haunted PS1, FPS horror test
+
+---
+
+### Built in Unity
+
+- With a focus on game and systems design and aesthetics for the prototype, create original C# code for all game logic and game systems, while leveraging and modifiying 3rd party tools and code for some of the more technical but less design-focused elements such as the helicopter flight controller for Lonesome Wastes.
+
+- Original sound effects and music
+
+- Art assets primarily external, from Unity Asset Store or CGTrader or Itch.io
+
+- Using [HPSXRP](https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx) custom render pipeline from pastafuture
+
+- Most of my time spent during prototyping was to determine performance demands, explore aesthetic styles and intricacies of custom render pipeline, and validate game and systems design while learning essential tools and processes associated with building a full game.
