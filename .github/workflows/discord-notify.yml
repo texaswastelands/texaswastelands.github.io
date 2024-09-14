@@ -13,7 +13,7 @@ jobs:
       - name: Send message to Discord
         uses: tsickert/discord-webhook@v5.3.0
         with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          message: |
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          content: |
             New push to **${{ github.repository }}** by **${{ github.actor }}**.
             Commit message: _${{ github.event.head_commit.message }}_
