@@ -59,5 +59,3 @@ layout: default
 - Using [HPSXRP](https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx) custom render pipeline from pastafuture
 
 - Most of my time spent during prototyping was to determine performance demands, explore aesthetic styles and intricacies of custom render pipeline, and validate game and systems design while learning essential tools and processes.
-
--TEST CHANGE
