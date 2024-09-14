@@ -19,7 +19,7 @@ layout: default
 
 ---
 
-## Flight Test
+## Flight
 ![LW_media](../assets/media/webp/heli_crash_large.webp){:style="display:block; margin-left:auto; margin-right:auto;"}
 <center>One hit to the rotors is the end for you. Be careful when performing dangerous maneuvers!</center>
 <br>
