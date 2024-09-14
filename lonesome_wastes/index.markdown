@@ -5,7 +5,7 @@ title: Lonesome Wastes
 layout: default
 ---
 # Lonesome Wastes
-## Built in Unity - Early Alpha stage
+### Built in Unity - Early Prototype
 
 [Videos](/lonesome_wastes/lw_videos)<br>
 [Images](/lonesome_wastes/lw_images)
