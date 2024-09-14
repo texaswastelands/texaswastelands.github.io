@@ -29,3 +29,5 @@ layout: default
 ## Exploring The Old World
 ![LW_media](../assets/media/webp/LW_heli_takeoff_building.webp){:style="display:block; margin-left:auto; margin-right:auto;"}
 <center>Find tools and supplies or perhaps allies while searching through the crumbled remnants</center>
+
+test text
