@@ -54,8 +54,8 @@ layout: default
 
 - Original sound effects and music
 
-- Art assets primarily external, from Unity Asset Store or CGTrader or Itch.io
+- Art assets primarily external, from Unity Asset Store or CGTrader or Itch.io. Original animations.
 
 - Using [HPSXRP](https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx) custom render pipeline from pastafuture
 
-- Most of my time spent during prototyping was to determine performance demands, explore aesthetic styles and intricacies of custom render pipeline, and validate game and systems design while learning essential tools and processes associated with building a full game.
+- Most of my time spent during prototyping was to determine performance demands, explore aesthetic styles and intricacies of custom render pipeline, and validate game and systems design while learning essential tools and processes.
