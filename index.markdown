@@ -1,61 +1,64 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: Projects
+description: Game development, technical design, AI-assisted software projects, and prototypes by Nathan Howard.
 ---
-# Gamedev Projects
-<style>
-  body {
-    position: relative;
-    height: 100vh; /* Full viewport height */
-    margin: 0;
-    padding: 0;
-  }
 
-  body::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('/assets/media/images/backgrounds/txw_background_01_large.jpg');
-    background-size: cover; /* Stretches the image while maintaining aspect ratio */
-    background-repeat: no-repeat;
-    background-position: center center;
-    opacity: 0.3; /* Adjust the opacity here */
-    z-index: -1; /* Ensures the background is behind the content */
-  }
-</style>
----
-<div class="image-grid">
-  <a href="/lonesome_wastes/">
-    <img src="../assets/media/images/screenshots/thumbnails/tn_home_base_heli_far.jpg" alt="Thumbnail 5">
+<div class="portfolio-hero">
+  <p class="eyebrow">GAME DEVELOPMENT // TECHNICAL DESIGN // AI-ASSISTED ENGINEERING</p>
+  <h1>Projects</h1>
+  <p class="lede">Independent game and interactive-software projects spanning systems design, rapid prototyping, real-time visuals, and AI-assisted development.</p>
+</div>
+
+<div class="project-grid">
+  <a class="project-card" href="/vape_lords/">
+    <div class="project-thumb project-thumb-image project-thumb-vape-image" style="background-image:url('/assets/media/images/vape_lords/screenshots/Vape_Lords_Main_Gameplay_Window1.png');"></div>
+    <div class="project-card-copy">
+      <p class="project-kicker">TypeScript / Electron / AI-assisted development</p>
+      <h2>Vape Lords</h2>
+      <p>An absurd desktop RPG prototype built through a deeply iterative AI-assisted workflow, with interconnected combat, travel, equipment, persistence, controller, and UI systems.</p>
+      <span class="project-link">View project →</span>
+    </div>
+  </a>
+
+  <a class="project-card" href="/technologia_scope/">
+    <div class="project-thumb project-thumb-scope">
+      <span>TECHNOLOGIA SCOPE</span>
+      <small>MEDIA COMING SOON</small>
+    </div>
+    <div class="project-card-copy">
+      <p class="project-kicker">Python / Pygame / NumPy / realtime audio</p>
+      <h2>Technologia Scope</h2>
+      <p>A real-time audiovisual playground driven by live audio analysis, procedural scenes, animation systems, controller input, and rapid visual experimentation.</p>
+      <span class="project-link">View project →</span>
+    </div>
+  </a>
+
+  <a class="project-card" href="/lonesome_wastes/">
+    <div class="project-thumb project-thumb-image" style="background-image:url('/assets/media/images/screenshots/home_base_heli_far.PNG');"></div>
+    <div class="project-card-copy">
+      <p class="project-kicker">Unity / C# / game systems prototype</p>
+      <h2>Lonesome Wastes</h2>
+      <p>An action-RPG / flight-sim prototype built around a home-base loop, helicopter traversal, limited resources, exploration, and PS1-inspired presentation.</p>
+      <span class="project-link">View project →</span>
+    </div>
+  </a>
+
+  <a class="project-card" href="/heli_evac/">
+    <div class="project-thumb project-thumb-image" style="background-image:url('/assets/media/images/screenshots/thumbnails/tn_heli_evac.jpg');"></div>
+    <div class="project-card-copy">
+      <p class="project-kicker">Unity / HPSXRP / visual prototype</p>
+      <h2>Heli Evac</h2>
+      <p>An early Haunted PS1-style experiment that started as a visual test and eventually led to the helicopter systems and world direction of Lonesome Wastes.</p>
+      <span class="project-link">View project →</span>
+    </div>
   </a>
 </div>
 
-## [Lonesome Wastes](/lonesome_wastes) - An action-rpg flight sim prototype
-
-<br>
-
-<div class="image-grid">
-  <a href="/heli_evac/">
-    <img src="../assets/media/images/screenshots/thumbnails/tn_heli_evac.jpg" alt="Thumbnail 5">
-  </a>
-</div>
-
-## [Heli Evac](/heli_evac) - Haunted PS1, FPS horror test
-
 ---
 
-### Built in Unity
+## How I Work
 
-- With a focus on game and systems design and aesthetics for the prototype, create original C# code for all game logic and game systems, while leveraging and modifiying 3rd party tools and code for some of the more technical but less design-focused elements such as the helicopter flight controller for Lonesome Wastes.
+I tend to prototype from the bottom up: start with something small, build on the parts that seem promising, and adjust the direction as the project develops.
 
-- Original sound effects and music
-
-- Art assets primarily external, from Unity Asset Store or CGTrader or Itch.io. Original animations.
-
-- Using [HPSXRP](https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx) custom render pipeline from pastafuture
-
-- Most of my time spent during prototyping was to determine performance demands, explore aesthetic styles and intricacies of custom render pipeline, and validate game and systems design while learning essential tools and processes.
+My newer projects use generative AI extensively for implementation, debugging, refactoring, and experimentation. My background also includes professional game development, technical design, game balance, DevOps, Linux/AWS infrastructure, automation, and production monitoring.
