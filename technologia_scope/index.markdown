@@ -13,9 +13,17 @@ description: An AI-assisted real-time audio visualization project built with Pyt
   </div>
 </div>
 
-<div class="media-placeholder media-placeholder-wide scope-placeholder">
-  <strong>DEMO REEL / FULL-SCREEN VIDEO</strong>
-  <span>Replace this block with a YouTube embed or WebM.</span>
+<div class="video-wrapper portfolio-video">
+  <div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/6LbsXQPtVRc"
+      title="Technologia Scope demo video"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
 ## About
