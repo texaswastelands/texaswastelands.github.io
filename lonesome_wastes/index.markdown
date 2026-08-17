@@ -11,6 +11,20 @@ layout: default
 [Images](/lonesome_wastes/lw_images)
 
 ---
+
+## Development Notes
+
+- With a focus on game and systems design and aesthetics for the prototype, create original C# code for all game logic and game systems, while leveraging and modifying 3rd party tools and code for some of the more technical but less design-focused elements such as the helicopter flight controller for Lonesome Wastes.
+
+- Original sound effects and music.
+
+- Art assets primarily external, from Unity Asset Store or CGTrader or Itch.io. Original animations.
+
+- Using [HPSXRP](https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx) custom render pipeline from pastafuture.
+
+- Most of my time spent during prototyping was to determine performance demands, explore aesthetic styles and intricacies of the custom render pipeline, and validate game and systems design while learning essential tools and processes.
+
+---
 ## Home Base
 ![LW_media](../assets/media/webp/base_pan_60_fps_large.webp){:style="display:block; margin-left:auto; margin-right:auto;"}
 <center>Refuel and strategically pick your next destination</center>
