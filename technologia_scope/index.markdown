@@ -59,9 +59,39 @@ A lot of the work is still hands-on tuning: timing, performance, audio-device be
 
 ## Media
 
-<div class="media-grid">
-  <div class="media-placeholder"><strong>MODE 01</strong><span>Space / tunnel / scope</span></div>
-  <div class="media-placeholder"><strong>MODE 02</strong><span>Dance floor / reactive scene</span></div>
-  <div class="media-placeholder"><strong>MODE 03</strong><span>Signal rider / clouds</span></div>
-  <div class="media-placeholder"><strong>MODE 04</strong><span>Controller / live demo</span></div>
+<div class="media-grid technologia-screenshot-grid">
+  <a class="media-shot media-shot-wide" href="/assets/media/images/technologia/screenshots/dancefloor_2.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/dancefloor_2.png" alt="Technologia Scope Neon Dance Floor mode" loading="lazy">
+    <span>Neon Dance Floor</span>
+  </a>
+
+  <a class="media-shot" href="/assets/media/images/technologia/screenshots/forest_run.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/forest_run.png" alt="Technologia Scope Canopy Drift forest mode" loading="lazy">
+    <span>Canopy Drift</span>
+  </a>
+
+  <a class="media-shot" href="/assets/media/images/technologia/screenshots/spaceflight.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/spaceflight.png" alt="Technologia Scope Interstellar spaceflight mode" loading="lazy">
+    <span>Interstellar</span>
+  </a>
+
+  <a class="media-shot" href="/assets/media/images/technologia/screenshots/drifting.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/drifting.png" alt="Technologia Scope Signal Fall drifting mode" loading="lazy">
+    <span>Signal Fall</span>
+  </a>
+
+  <a class="media-shot" href="/assets/media/images/technologia/screenshots/levels.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/levels.png" alt="Technologia Scope Spectrum audio levels mode" loading="lazy">
+    <span>Spectrum</span>
+  </a>
+
+  <a class="media-shot" href="/assets/media/images/technologia/screenshots/oscilliscope.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/oscilliscope.png" alt="Technologia Scope oscilloscope mode" loading="lazy">
+    <span>Oscilloscope</span>
+  </a>
+
+  <a class="media-shot" href="/assets/media/images/technologia/screenshots/options_menu.png" target="_blank" rel="noopener">
+    <img src="/assets/media/images/technologia/screenshots/options_menu.png" alt="Technologia Scope options menu" loading="lazy">
+    <span>Options / live controls</span>
+  </a>
 </div>

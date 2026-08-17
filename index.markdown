@@ -22,10 +22,7 @@ description: Game development, technical design, AI-assisted software projects, 
   </a>
 
   <a class="project-card" href="/technologia_scope/">
-    <div class="project-thumb project-thumb-scope">
-      <span>TECHNOLOGIA SCOPE</span>
-      <small>MEDIA COMING SOON</small>
-    </div>
+    <div class="project-thumb project-thumb-image" style="background-image:url('/assets/media/images/technologia/screenshots/dancefloor_2.png');"></div>
     <div class="project-card-copy">
       <p class="project-kicker">Python / Pygame / NumPy / realtime audio</p>
       <h2>Technologia Scope</h2>
