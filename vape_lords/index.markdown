@@ -7,7 +7,7 @@ description: An AI-assisted TypeScript/Electron desktop RPG prototype by Nathan 
 <div class="project-hero project-hero-vape">
   <p class="eyebrow">AI-ASSISTED DESKTOP RPG PROTOTYPE</p>
   <h1>Vape Lords</h1>
-  <p class="lede">An ongoing systems-driven RPG prototype built in TypeScript, HTML5, and Electron, with a deliberately ridiculous world and a strong focus on iteration.</p>
+  <p class="lede">An ongoing systems driven RPG prototype built in TypeScript, HTML5, and Electron, with a deliberately ridiculous world and a strong focus on iteration.</p>
   <div class="tag-row">
     <span>TypeScript</span><span>Electron</span><span>HTML/CSS</span><span>Game Systems</span><span>Controller / Steam Deck</span><span>AI-Assisted Development</span>
   </div>
@@ -44,10 +44,10 @@ The design changes often. I prototype mechanics, play with them, simplify them, 
 - Persistent game state and save/load
 - Travel, locations, encounters, and combat
 - Equipment, inventory, character progression, and economy
-- All data human-readable and editable through simple a organized spreadsheet with support for variables
+- All data human readable and editable through simple a organized spreadsheet with support for variables
 - Shops, scavenging, drops, and upgrade experiments
 - Controller navigation & rumble, Steam Deck usability
-- Unified game-event and message-output systems
+- Unified game event and message output systems
 
 Combat has gone through several major revisions as I work toward something tactical enough to be interesting without losing the game's absurd tone.
 
