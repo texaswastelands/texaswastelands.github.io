@@ -46,8 +46,6 @@ Technologia Scope listens to live audio and turns it into interactive, audio rea
 - Procedural particles, motion, lighting, and scene effects
 - Controller driven interaction and visual adjustment
 
-Visual modes have included oscilloscope displays, tunnels, space and dust environments, Signal Rider, Falling Through Clouds, and a reactive dance floor.
-
 ## AI-Assisted Development
 
 I use AI to prototype visual and technical ideas quickly, build and refactor implementation scaffolding, troubleshoot errors, and explore rendering or audio processing approaches.
