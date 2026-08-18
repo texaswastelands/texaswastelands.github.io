@@ -28,7 +28,7 @@ description: An AI-assisted real-time audio visualization project built with Pyt
 
 ## About
 
-Technologia Scope listens to live audio and turns it into interactive, audio reactive scenes. It began as a simple oscilloscope experiment and expanded into multiple visual modes with different movement, effects, and responses to the incoming sound.
+Technologia Scope listens to live audio (selected input or output device) and turns it into interactive, audio reactive scenes. It began as a simple oscilloscope experiment and expanded into multiple visual modes with different movement, effects, and responses to the incoming sound.
 
 <div class="project-facts">
   <div><strong>Role</strong><span>Creative direction, interaction design, technical direction, testing, iteration</span></div>
@@ -45,6 +45,8 @@ Technologia Scope listens to live audio and turns it into interactive, audio rea
 - Tempo and music state tracking
 - Procedural particles, motion, lighting, and scene effects
 - Controller driven interaction and visual adjustment
+- Live color palette changes
+- Demo mode for hands off palette and mode changes based on music intensity and tempo over time.
 
 ## AI-Assisted Development
 
