@@ -7,7 +7,7 @@ description: An AI-assisted real-time audio visualization project built with Pyt
 <div class="project-hero project-hero-scope">
   <p class="eyebrow">REAL-TIME AUDIO VISUALIZATION PROTOTYPE</p>
   <h1>Technologia Scope</h1>
-  <p class="lede">A real-time music visualizer built in Python with live audio analysis, controller input, procedural animation, and a growing collection of reactive scenes.</p>
+  <p class="lede">A realtime music visualizer built in Python with live audio analysis, controller input, procedural animation, and a growing collection of reactive scenes.</p>
   <div class="tag-row">
     <span>Python</span><span>Pygame</span><span>NumPy</span><span>Realtime Audio</span><span>Procedural Visuals</span><span>Controller Input</span><span>AI-Assisted Development</span>
   </div>
@@ -28,32 +28,31 @@ description: An AI-assisted real-time audio visualization project built with Pyt
 
 ## About
 
-Technologia Scope listens to live audio and turns it into interactive, music-reactive scenes. It began as a simple oscilloscope experiment and expanded into multiple visual modes with different movement, effects, and responses to the incoming sound.
+Technologia Scope listens to live audio and turns it into interactive, audio reactive scenes. It began as a simple oscilloscope experiment and expanded into multiple visual modes with different movement, effects, and responses to the incoming sound.
 
 <div class="project-facts">
   <div><strong>Role</strong><span>Creative direction, interaction design, technical direction, testing, iteration</span></div>
-  <div><strong>Input</strong><span>Live microphone / audio stream + Xbox-style controller</span></div>
+  <div><strong>Input</strong><span>Live microphone / audio stream + Xbox style controller</span></div>
   <div><strong>Stack</strong><span>Python, Pygame, NumPy, realtime audio libraries</span></div>
   <div><strong>Status</strong><span>Active prototype</span></div>
 </div>
 
 ## Technical Highlights
 
-- Live audio-device selection and capture
-- FFT-based frequency analysis
+- Live audio device selection and capture
+- FFT based frequency analysis
 - Bass / mid / treble response and smoothed audio data
-- Tempo and music-state tracking
+- Tempo and music state tracking
 - Procedural particles, motion, lighting, and scene effects
-- Controller-driven interaction and visual adjustment
-- Windows and Linux audio/device troubleshooting
+- Controller driven interaction and visual adjustment
 
 Visual modes have included oscilloscope displays, tunnels, space and dust environments, Signal Rider, Falling Through Clouds, and a reactive dance floor.
 
 ## AI-Assisted Development
 
-I use AI to prototype visual and technical ideas quickly, build and refactor implementation scaffolding, troubleshoot errors, and explore rendering or audio-processing approaches.
+I use AI to prototype visual and technical ideas quickly, build and refactor implementation scaffolding, troubleshoot errors, and explore rendering or audio processing approaches.
 
-A lot of the work is still hands-on tuning: timing, performance, audio-device behavior, controller interaction, scene state, and how the different visual systems behave together in motion.
+A lot of the work is still hands on tuning: timing, performance, audio device behavior, controller interaction, scene state, and how the different visual systems behave together in motion.
 
 ## Media
 
