@@ -45,8 +45,6 @@ Technologia Scope listens to live audio and turns it into interactive, music-rea
 - Tempo and music-state tracking
 - Procedural particles, motion, lighting, and scene effects
 - Controller-driven interaction and visual adjustment
-- Fullscreen desktop presentation
-- Real-time performance tuning
 - Windows and Linux audio/device troubleshooting
 
 Visual modes have included oscilloscope displays, tunnels, space and dust environments, Signal Rider, Falling Through Clouds, and a reactive dance floor.
