@@ -7,7 +7,7 @@ description: Game development, technical design, AI-assisted software projects, 
 <div class="portfolio-hero">
   <p class="eyebrow">GAME DEVELOPMENT // TECHNICAL DESIGN // AI-ASSISTED ENGINEERING</p>
   <h1>Projects</h1>
-  <p class="lede">Independent game and interactive-software projects spanning systems design, rapid prototyping, real-time visuals, and AI-assisted development.</p>
+  <p class="lede">Independent game and interactive-software projects spanning systems design, rapid prototyping, procedural graphics, and AI-assisted development.</p>
 </div>
 
 <div class="project-grid">
