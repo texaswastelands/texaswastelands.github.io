@@ -16,7 +16,7 @@ description: Game development, technical design, AI-assisted software projects, 
     <div class="project-card-copy">
       <p class="project-kicker">TypeScript / Electron / AI-assisted development</p>
       <h2>Vape Lords</h2>
-      <p>An absurd desktop RPG prototype built through a deeply iterative AI-assisted workflow, with interconnected combat, travel, equipment, persistence, controller, and UI systems.</p>
+      <p>An absurd Cyberpunk desktop / web RPG prototype built through a deeply iterative AI-assisted workflow, with interconnected combat, travel, equipment, persistence, controller, and UI systems.</p>
       <span class="project-link">View project →</span>
     </div>
   </a>

@@ -7,7 +7,7 @@ description: An AI-assisted TypeScript/Electron desktop RPG prototype by Nathan 
 <div class="project-hero project-hero-vape">
   <p class="eyebrow">AI-ASSISTED DESKTOP RPG PROTOTYPE</p>
   <h1>Vape Lords</h1>
-  <p class="lede">An ongoing systems driven RPG prototype built in TypeScript, HTML5, and Electron, with a deliberately ridiculous world and a strong focus on iteration.</p>
+  <p class="lede">An ongoing systems driven Cyberpunk RPG prototype built in TypeScript, HTML5, and Electron, with a deliberately ridiculous world and a strong focus on iteration.</p>
   <div class="tag-row">
     <span>TypeScript</span><span>Electron</span><span>HTML/CSS</span><span>Game Systems</span><span>Controller / Steam Deck</span><span>AI-Assisted Development</span>
   </div>
